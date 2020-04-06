@@ -1,1 +1,5 @@
-alert("hello, world!");
+var Calculator = /** @class */ (function () {
+    function Calculator() {
+    }
+    return Calculator;
+}());
